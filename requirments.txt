@@ -1,0 +1,9 @@
+streamlit
+requests
+geopy
+fpdf
+pandas
+plotly
+opencv-python-headless
+pillow
+numpy
